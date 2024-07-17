@@ -1,0 +1,2 @@
+# StockGenius
+Stock Price Predictor
